@@ -19,10 +19,10 @@ MariaDB:
 - Run the project.
 
 UI:
--Customer
--Staff
--Store
--Supplier
--Merchandise & Inventory
--Billing & Transaction
--Reports
+- Customer
+- Staff
+- Store
+- Supplier
+- Merchandise & Inventory
+- Billing & Transaction
+- Reports
